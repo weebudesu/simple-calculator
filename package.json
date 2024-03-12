@@ -1,10 +1,10 @@
 {
   "name": "@0xhendra/simple-calculator",
-  "version": "1.0.2",
+  "version": "1.0.2b",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/weebudesu/simple-calculator.git"
+    "url": "https://github.com/weebudesu/simple-calculator"
   },
   "scripts": {
     "test": "node index.js"
